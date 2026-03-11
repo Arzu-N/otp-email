@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 HELP.md
 .gradle
 build/
@@ -40,6 +41,8 @@ out/
 =======
 =======
 >>>>>>> 7388be87162b2e9bb09fab0e149a68917e03a697
+=======
+>>>>>>> 6d56ffc1d83d28571c3d5b3ffceb53d5b385173e
 # Compiled class file
 *.class
 
@@ -65,6 +68,9 @@ out/
 hs_err_pid*
 replay_pid*
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 8ff17e2294610acd38cfff565d3b052a86b13261
 =======
 >>>>>>> 7388be87162b2e9bb09fab0e149a68917e03a697
+=======
+>>>>>>> 6d56ffc1d83d28571c3d5b3ffceb53d5b385173e
